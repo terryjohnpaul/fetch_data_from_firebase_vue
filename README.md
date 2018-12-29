@@ -1,4 +1,4 @@
-# terry-smoothies
+# fetchdatafirebase
 
 > A Vue.js project
 
