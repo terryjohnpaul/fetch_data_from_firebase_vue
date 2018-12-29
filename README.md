@@ -4,7 +4,9 @@
 
 # fetch_data_from_firebase_vue
 > The UI is designed with Vue.js + Materialize.css
+
 >The firebase is used as the Backend
+
 >1st project in vue to fetch and display data
 
 ## Build Setup
